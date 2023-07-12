@@ -9,32 +9,41 @@ The programs in this repository allow the user to input the size of the triangle
 ### C
 
 To run the C program, compile the `pascal_triangle.c` file and execute the resulting executable:
-
 ```
 gcc pascal_triangle.c -o pascal_triangle
 ./pascal_triangle
 ```
-#### C++ 
+### C++ 
 
-To run the C++ program, compile the pascal_triangle.cpp file and execute the resulting executable:
-
+To run the C++ program, compile the `pascal_triangle.cpp` file and execute the resulting executable:
 ```
 g++ pascal_triangle.cpp -o pascal_triangle
 ./pascal_triangle
 ```
-##### Python
+### Python
 
-To run the Python program, execute the pascal_triangle.py file using the Python interpreter:
+To run the Python program, execute the `pascal_triangle.py` file using the Python interpreter:
 ```
 python pascal_triangle.py
 ```
+### JavaScript
 
-##### JavaScript
-
-To run the JavaScript program, execute the pascal_triangle.js file using Node.js:
-
+To run the JavaScript program, execute the `pascal_triangle.js` file using Node.js:
 ```
 node pascal_triangle.js
+```
+### Java
+
+To run the Java program, compile the `pascal_triangle.java` file and execute the resulting bytecode:
+```
+javac pascal_triangle.java
+java pascal_triangle
+```
+### Dart
+
+To run the Dart program, execute the `pascal_triangle.dart` file using Dart SDK:
+```
+node pascal_triangle.dart
 ```
 
 ## Working
