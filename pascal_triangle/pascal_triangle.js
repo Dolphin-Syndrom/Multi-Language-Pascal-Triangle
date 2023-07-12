@@ -19,7 +19,7 @@ rl.question('Enter size of triangle: ', (userInput) => {
         end += ' ';
       }
       
-      for (var j = 1; j <= i; j++) {
+      for (var j = 0; j <= i; j++) {
         end += ch;
         end += ' ';
       }
