@@ -43,7 +43,7 @@ java pascal_triangle
 
 To run the Dart program, execute the `pascal_triangle.dart` file using Dart SDK:
 ```
-node pascal_triangle.dart
+dart pascal_triangle.dart
 ```
 
 ## Working
